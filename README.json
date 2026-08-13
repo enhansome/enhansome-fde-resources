@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mlabonne/llm-course",
+          "description": "Structured LLM learning path with notebooks and practical roadmaps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-05T13:09:26Z",
+            "owner": "mlabonne",
+            "repo": "llm-course",
+            "stars": 81646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugging Face/agents-course",
+          "description": "Hands-on course for understanding and building AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-06-30T00:53:26Z",
+            "owner": "huggingface",
+            "repo": "agents-course",
+            "stars": 30933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsoft/mcp-for-beginners",
+          "description": "Cross-language introduction to Model Context Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T20:16:31Z",
+            "owner": "microsoft",
+            "repo": "mcp-for-beginners",
+            "stars": 16977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chiphuyen/aie-book",
+          "description": "Supporting resources for Chip Huyen's AI Engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-03T07:04:59Z",
+            "owner": "chiphuyen",
+            "repo": "aie-book",
+            "stars": 16948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ashishps1/learn-ai-engineering",
+          "description": "Free learning path for AI and LLM engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-05T02:34:40Z",
+            "owner": "ashishps1",
+            "repo": "learn-ai-engineering",
+            "stars": 5926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PacktPublishing/LLM-Engineers-Handbook",
+          "description": "Practical LLM, RAG, deployment, and LLMOps handbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T08:25:03Z",
+            "owner": "PacktPublishing",
+            "repo": "LLM-Engineers-Handbook",
+            "stars": 5272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alexeygrigorev/ai-engineering-field-guide",
+          "description": "Data-backed guide to AI engineering roles, including responsibilities and skills extracted from 146 FDE job postings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-04T05:02:19Z",
+            "owner": "alexeygrigorev",
+            "repo": "ai-engineering-field-guide",
+            "stars": 5201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "decodingai-magazine/llm-twin-course",
+          "description": "End-to-end production LLM and RAG course.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T10:53:45Z",
+            "owner": "decodingai-magazine",
+            "repo": "llm-twin-course",
+            "stars": 4384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+          "description": "Chinese FDE guidance book covering discovery, activation, renewal, expansion, and scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T16:52:16Z",
+            "owner": "xdash",
+            "repo": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+            "stars": 3924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meirtz/Awesome-Context-Engineering",
+          "description": "Survey of context engineering research, patterns, and implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T05:40:26Z",
+            "owner": "Meirtz",
+            "repo": "Awesome-Context-Engineering",
+            "stars": 3277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ombharatiya/ai-system-design-guide",
+          "description": "Production AI system design and evaluation guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T07:45:52Z",
+            "owner": "ombharatiya",
+            "repo": "ai-system-design-guide",
+            "stars": 2578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paiml/practical-mlops-book",
+          "description": "Code and exercises from Practical MLOps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-26T13:39:54Z",
+            "owner": "paiml",
+            "repo": "practical-mlops-book",
+            "stars": 984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dair-ai/MLOPs-Primer",
+          "description": "Curated foundation for learning MLOps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-26T18:40:58Z",
+            "owner": "dair-ai",
+            "repo": "MLOPs-Primer",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curiousily/AI-Bootcamp",
+          "description": "Self-paced GenAI bootcamp covering RAG, agents, and fine-tuning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-20T18:17:13Z",
+            "owner": "curiousily",
+            "repo": "AI-Bootcamp",
+            "stars": 933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pierpaolo28/Awesome-FDE-Roadmap",
+          "description": "Roadmap for FDE skills across agents, enterprise data, and strategic consulting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T21:30:59Z",
+            "owner": "pierpaolo28",
+            "repo": "Awesome-FDE-Roadmap",
+            "stars": 857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection",
+          "description": "Beginner roadmap for AI security and prompt injection testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T07:55:00Z",
+            "owner": "anmolksachan",
+            "repo": "AI-ML-Free-Resources-for-Security-and-Prompt-Injection",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLOps-Courses/mlops-coding-course",
+          "description": "Build and maintain a production MLOps codebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T18:35:43Z",
+            "owner": "MLOps-Courses",
+            "repo": "mlops-coding-course",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bryanyzhu/agentic-ai-system-course",
+          "description": "Course skeleton for designing and operating production agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T05:48:14Z",
+            "owner": "bryanyzhu",
+            "repo": "agentic-ai-system-course",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libaice/Awesome-FDE",
+          "description": "Bilingual collection of FDE resources, companies, core skills, and interview preparation materials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-08T04:59:17Z",
+            "owner": "libaice",
+            "repo": "Awesome-FDE",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "Getting started"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "humanlayer/12-factor-agents",
+          "description": "Twelve engineering principles for reliable customer-facing agent systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-21T14:37:40Z",
+            "owner": "humanlayer",
+            "repo": "12-factor-agents",
+            "stars": 25279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NirDiamant/agents-towards-production",
+          "description": "Code-first tutorials from agent prototype to enterprise deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-31T21:07:09Z",
+            "owner": "NirDiamant",
+            "repo": "agents-towards-production",
+            "stars": 21277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EthicalML/awesome-production-machine-learning",
+          "description": "Libraries and practices for deploying, monitoring, versioning, and scaling ML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T19:22:45Z",
+            "owner": "EthicalML",
+            "repo": "awesome-production-machine-learning",
+            "stars": 20840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visenger/awesome-mlops",
+          "description": "Curated MLOps references and production tooling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-21T14:45:11Z",
+            "owner": "visenger",
+            "repo": "awesome-mlops",
+            "stars": 14156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NVIDIA-NeMo/Guardrails",
+          "description": "Programmable guardrails for LLM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:11:19Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "Guardrails",
+            "stars": 6934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleCloudPlatform/agent-starter-pack",
+          "description": "Production agent templates with CI/CD, evaluation, and observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T23:42:40Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "agent-starter-pack",
+            "stars": 6534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-boost/awesome-harness-engineering",
+          "description": "Patterns for agent memory, permissions, evals, MCP, and observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:39:18Z",
+            "owner": "ai-boost",
+            "repo": "awesome-harness-engineering",
+            "stars": 3538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lizhe2004/Awesome-LLM-RAG-Application",
+          "description": "RAG application patterns and implementation resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-10T02:50:02Z",
+            "owner": "lizhe2004",
+            "repo": "Awesome-LLM-RAG-Application",
+            "stars": 1645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vllm-project/guidellm",
+          "description": "Evaluate LLM serving performance under real inference workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:33:34Z",
+            "owner": "vllm-project",
+            "repo": "guidellm",
+            "stars": 1497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "benchflow-ai/awesome-evals",
+          "description": "Focused collection of agent evaluation resources and benchmarks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T15:42:07Z",
+            "owner": "benchflow-ai",
+            "repo": "awesome-evals",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "requie/AI-Red-Teaming-Guide",
+          "description": "Practical adversarial testing and AI security evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T03:59:41Z",
+            "owner": "requie",
+            "repo": "AI-Red-Teaming-Guide",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puliczek/awesome-mcp-security",
+          "description": "MCP security tools, research, and defensive guidance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-03T20:29:51Z",
+            "owner": "Puliczek",
+            "repo": "awesome-mcp-security",
+            "stars": 728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropics/cwc-long-running-agents",
+          "description": "First-party harness primitives and evaluator loops for reliable long-running Claude agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-13T00:54:43Z",
+            "owner": "anthropics",
+            "repo": "cwc-long-running-agents",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "databricks/databricks-agent-skills",
+          "description": "Official skills encoding Databricks data, governance, evaluation, and deployment workflows for coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:38:08Z",
+            "owner": "databricks",
+            "repo": "databricks-agent-skills",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "suboss87/FDEOps",
+          "description": "Local-first engagement memory, delivery methodology, and agent skills covering discovery through handoff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T06:43:29Z",
+            "owner": "suboss87",
+            "repo": "FDEOps",
+            "stars": 236
+          }
+        }
+      ],
+      "title": "Best practices"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pathwaycom/llm-app",
+          "description": "Ready-to-run RAG, live-data, and enterprise-search templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-05T17:59:07Z",
+            "owner": "pathwaycom",
+            "repo": "llm-app",
+            "stars": 59064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "patchy631/ai-engineering-hub",
+          "description": "Real-world tutorials for agents, RAG, and LLM systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-27T18:43:06Z",
+            "owner": "patchy631",
+            "repo": "ai-engineering-hub",
+            "stars": 36979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NirDiamant/GenAI_Agents",
+          "description": "More than 50 agent techniques and implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-31T21:07:06Z",
+            "owner": "NirDiamant",
+            "repo": "GenAI_Agents",
+            "stars": 23781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleCloudPlatform/generative-ai",
+          "description": "Google Cloud GenAI samples and enterprise notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T16:40:24Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "generative-ai",
+            "stars": 17584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ikatsov/tensor-house",
+          "description": "Enterprise AI notebooks for marketing, pricing, supply chain, and manufacturing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-24T15:36:36Z",
+            "owner": "ikatsov",
+            "repo": "tensor-house",
+            "stars": 1451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure-Samples/AI-Gateway",
+          "description": "Labs for AI gateways, models, MCP servers, and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-07T10:31:34Z",
+            "owner": "Azure-Samples",
+            "repo": "AI-Gateway",
+            "stars": 972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muratcankoylan/AI-Investigator",
+          "description": "Adaptable enterprise research and report-generation system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-05T21:49:02Z",
+            "owner": "muratcankoylan",
+            "repo": "AI-Investigator",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS",
+          "description": "End-to-end GenAI projects with deployment examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-24T07:20:37Z",
+            "owner": "GURPREETKAURJETHRA",
+            "repo": "END-TO-END-GENERATIVE-AI-PROJECTS",
+            "stars": 622
+          }
+        }
+      ],
+      "title": "Cases and reference implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "langgenius/dify",
+          "description": "Platform for agent workflows, RAG, models, and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:28:19Z",
+            "owner": "langgenius",
+            "repo": "dify",
+            "stars": 152318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modelcontextprotocol/servers",
+          "description": "Reference MCP servers and integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T02:41:59Z",
+            "owner": "modelcontextprotocol",
+            "repo": "servers",
+            "stars": 89525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "daytonaio/daytona",
+          "description": "Secure infrastructure for running AI-generated code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T07:12:07Z",
+            "owner": "daytonaio",
+            "repo": "daytona",
+            "stars": 72025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langchain-ai/langgraph",
+          "description": "Runtime and orchestration framework for resilient agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:03:25Z",
+            "owner": "langchain-ai",
+            "repo": "langgraph",
+            "stars": 39607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langfuse/langfuse",
+          "description": "LLM observability, evaluation, prompt management, and datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:31:26Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 33032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mlflow/mlflow",
+          "description": "Lifecycle, evaluation, tracing, and monitoring for AI systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:31:36Z",
+            "owner": "mlflow",
+            "repo": "mlflow",
+            "stars": 27498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "promptfoo/promptfoo",
+          "description": "Prompt, agent, and RAG testing with red teaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:37:10Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "confident-ai/deepeval",
+          "description": "Evaluation framework for LLM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:53:41Z",
+            "owner": "confident-ai",
+            "repo": "deepeval",
+            "stars": 17568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vibrantlabsai/ragas",
+          "description": "Evaluation framework for RAG and LLM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T07:47:19Z",
+            "owner": "vibrantlabsai",
+            "repo": "ragas",
+            "stars": 15300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opensandbox-group/OpenSandbox",
+          "description": "Secure, extensible sandbox runtime with SDK, MCP, Docker, and Kubernetes support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:11:28Z",
+            "owner": "opensandbox-group",
+            "repo": "OpenSandbox",
+            "stars": 12511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arize-ai/phoenix",
+          "description": "Open-source AI observability and evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:57:44Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evidentlyai/evidently",
+          "description": "Evaluation and monitoring for ML and LLM systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-05T16:29:57Z",
+            "owner": "evidentlyai",
+            "repo": "evidently",
+            "stars": 7801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/agents-cli",
+          "description": "CLI and skills for creating, evaluating, governing, and deploying agents on Google Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:19:20Z",
+            "owner": "google",
+            "repo": "agents-cli",
+            "stars": 5597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsoft/PyRIT",
+          "description": "Generative AI risk identification and red-team framework from Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:15:39Z",
+            "owner": "microsoft",
+            "repo": "PyRIT",
+            "stars": 4288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "archestra-ai/archestra",
+          "description": "Enterprise MCP registry, gateway, guardrails, and orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:03:58Z",
+            "owner": "archestra-ai",
+            "repo": "archestra",
+            "stars": 4180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snyk/agent-scan",
+          "description": "Security scanner for prompt injection and vulnerabilities in agents, MCP servers, and skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:13:56Z",
+            "owner": "snyk",
+            "repo": "agent-scan",
+            "stars": 2908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langwatch/scenario",
+          "description": "Multi-turn agent testing with simulated users, edge cases, and framework-agnostic evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:58:18Z",
+            "owner": "langwatch",
+            "repo": "scenario",
+            "stars": 951
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "The member directory introduces practitioners and teams that can provide FDE knowledge, delivery capability, projects, or reusable resources. Entries require public evidence and clear conflict-of-interest disclosure.",
+      "items": [],
+      "title": "FDE member network"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FDE: A New Organizational Species in the AI Era - FDE Deployment in China Whitepaper 2026 (Preview)",
+          "description": "A 15-page decision preview from Cui Niu Hui Research on deployment gaps, the role of FDE, and when enterprises need deep deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T13:17:53Z",
+            "owner": "global-fde",
+            "repo": "awesome-fde-resources",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to Become an FDE Engineer (Key Notes)",
+          "description": "Zhang Zifeng ARK's concise notes on FDE capabilities, production deployment, deliverables, portfolio building, and customer discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T13:17:53Z",
+            "owner": "global-fde",
+            "repo": "awesome-fde-resources",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FDE Interview: AI Deployment, Productization, and the Talent Profile",
+          "description": "A structured 16-page editorial reconstruction of an interview covering enterprise AI delivery, Cresta's field practice, FDE hiring, trust, product feedback loops, and career paths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T13:17:53Z",
+            "owner": "global-fde",
+            "repo": "awesome-fde-resources",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "100 Questions About Forward Deployed Engineers",
+          "description": "AI Leishu's 92-page question-led guide to the FDE opportunity, role boundaries, skills, customer work, delivery, commercialization, and long-term career development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T13:17:53Z",
+            "owner": "global-fde",
+            "repo": "awesome-fde-resources",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "Hosted Chinese resources"
+    },
+    {
+      "description": "Read CONTRIBUTING.md. New submissions should explain their direct value to FDE or production AI delivery. Emerging projects with strong evidence are welcome.\nLinked projects remain under their owners' licenses. Original content is licensed under CC BY 4.0; code under is licensed under Apache-2.0. See licensing details.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:32:34.490Z",
+    "original_repository": "global-fde/awesome-fde-resources",
+    "original_repository_sha": "27e98772e8e5f28c75c1abf5f508c869fb27740d",
+    "enhanced_repository": "enhansome/enhansome-fde-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome FDE Resources with stars"
+  }
+}
