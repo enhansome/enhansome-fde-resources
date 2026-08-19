@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655099582,
             "language": null,
             "last_commit": "2026-02-05T13:09:26Z",
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 81763
+            "stars": 81807
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 917868934,
             "language": "MDX",
             "last_commit": "2026-06-30T00:53:26Z",
             "owner": "huggingface",
             "repo": "agents-course",
-            "stars": 31093
+            "stars": 31133
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 898102196,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-03T07:04:59Z",
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17072
+            "stars": 17079
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 960665821,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T09:28:34Z",
+            "last_commit": "2026-08-19T06:16:37Z",
             "owner": "microsoft",
             "repo": "mcp-for-beginners",
-            "stars": 17015
+            "stars": 17018
           }
         },
         {
@@ -66,25 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 964477695,
             "language": null,
             "last_commit": "2026-02-05T02:34:40Z",
             "owner": "ashishps1",
             "repo": "learn-ai-engineering",
-            "stars": 5933
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PacktPublishing/LLM-Engineers-Handbook",
-          "description": "Practical LLM, RAG, deployment, and LLMOps handbook.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-22T08:25:03Z",
-            "owner": "PacktPublishing",
-            "repo": "LLM-Engineers-Handbook",
-            "stars": 5288
+            "stars": 5936
           }
         },
         {
@@ -94,11 +85,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1149784146,
             "language": "HTML",
             "last_commit": "2026-08-04T05:02:19Z",
             "owner": "alexeygrigorev",
             "repo": "ai-engineering-field-guide",
-            "stars": 5288
+            "stars": 5296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PacktPublishing/LLM-Engineers-Handbook",
+          "description": "Practical LLM, RAG, deployment, and LLMOps handbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784183059,
+            "language": "Python",
+            "last_commit": "2026-04-22T08:25:03Z",
+            "owner": "PacktPublishing",
+            "repo": "LLM-Engineers-Handbook",
+            "stars": 5287
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 769066911,
             "language": "Python",
             "last_commit": "2026-04-20T10:53:45Z",
             "owner": "decodingai-magazine",
             "repo": "llm-twin-course",
-            "stars": 4383
+            "stars": 4385
           }
         },
         {
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1316875788,
             "language": null,
             "last_commit": "2026-08-14T01:57:33Z",
             "owner": "xdash",
             "repo": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-            "stars": 4165
+            "stars": 4205
           }
         },
         {
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012676456,
             "language": null,
             "last_commit": "2026-05-28T05:40:26Z",
             "owner": "Meirtz",
             "repo": "Awesome-Context-Engineering",
-            "stars": 3277
+            "stars": 3278
           }
         },
         {
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117470788,
             "language": null,
             "last_commit": "2026-08-15T17:36:14Z",
             "owner": "ombharatiya",
             "repo": "ai-system-design-guide",
-            "stars": 2652
+            "stars": 2659
           }
         },
         {
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311069405,
             "language": "Jupyter Notebook",
             "last_commit": "2026-03-26T13:39:54Z",
             "owner": "paiml",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 505110544,
             "language": null,
             "last_commit": "2023-02-26T18:40:58Z",
             "owner": "dair-ai",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 786509147,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-20T18:17:13Z",
             "owner": "curiousily",
@@ -206,11 +220,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1134458623,
             "language": null,
             "last_commit": "2026-08-03T21:30:59Z",
             "owner": "pierpaolo28",
             "repo": "Awesome-FDE-Roadmap",
-            "stars": 886
+            "stars": 895
           }
         },
         {
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 850956931,
             "language": null,
             "last_commit": "2026-08-04T07:55:00Z",
             "owner": "anmolksachan",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749432469,
             "language": null,
             "last_commit": "2026-08-10T18:35:43Z",
             "owner": "MLOps-Courses",
@@ -248,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1247236424,
             "language": "JavaScript",
             "last_commit": "2026-06-22T05:48:14Z",
             "owner": "bryanyzhu",
             "repo": "agentic-ai-system-course",
-            "stars": 576
+            "stars": 578
           }
         },
         {
@@ -262,18 +280,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1246015916,
             "language": null,
             "last_commit": "2026-06-08T04:59:17Z",
             "owner": "libaice",
             "repo": "Awesome-FDE",
-            "stars": 99
+            "stars": 100
           }
         }
       ],
       "title": "Getting started"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -282,11 +301,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 957658915,
             "language": "TypeScript",
             "last_commit": "2025-09-21T14:37:40Z",
             "owner": "humanlayer",
             "repo": "12-factor-agents",
-            "stars": 25354
+            "stars": 25371
           }
         },
         {
@@ -296,11 +316,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1003143578,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T00:52:10Z",
             "owner": "NirDiamant",
             "repo": "agents-towards-production",
-            "stars": 21297
+            "stars": 21299
           }
         },
         {
@@ -310,11 +331,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144863525,
             "language": null,
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20851
+            "stars": 20852
           }
         },
         {
@@ -324,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244620269,
             "language": null,
             "last_commit": "2024-11-21T14:45:11Z",
             "owner": "visenger",
             "repo": "awesome-mlops",
-            "stars": 14157
+            "stars": 14158
           }
         },
         {
@@ -338,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-18T09:22:12Z",
+            "last_commit": "2026-08-19T06:34:40Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 6968
+            "stars": 6971
           }
         },
         {
@@ -352,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 925298844,
             "language": "Python",
             "last_commit": "2026-07-21T23:42:40Z",
             "owner": "GoogleCloudPlatform",
             "repo": "agent-starter-pack",
-            "stars": 6535
+            "stars": 6537
           }
         },
         {
@@ -366,11 +391,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1195371847,
             "language": "Python",
-            "last_commit": "2026-08-17T22:08:35Z",
+            "last_commit": "2026-08-18T18:14:04Z",
             "owner": "ai-boost",
             "repo": "awesome-harness-engineering",
-            "stars": 3607
+            "stars": 3632
           }
         },
         {
@@ -380,11 +406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 736099258,
             "language": null,
             "last_commit": "2026-03-10T02:50:02Z",
             "owner": "lizhe2004",
             "repo": "Awesome-LLM-RAG-Application",
-            "stars": 1647
+            "stars": 1648
           }
         },
         {
@@ -394,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 807840349,
             "language": "Python",
-            "last_commit": "2026-08-18T01:05:56Z",
+            "last_commit": "2026-08-19T01:10:38Z",
             "owner": "vllm-project",
             "repo": "guidellm",
-            "stars": 1521
+            "stars": 1525
           }
         },
         {
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1278930806,
             "language": null,
             "last_commit": "2026-07-31T15:42:07Z",
             "owner": "benchflow-ai",
@@ -422,11 +451,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1086165112,
             "language": null,
             "last_commit": "2026-08-04T03:59:41Z",
             "owner": "requie",
             "repo": "AI-Red-Teaming-Guide",
-            "stars": 817
+            "stars": 823
           }
         },
         {
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962882667,
             "language": null,
             "last_commit": "2026-03-03T20:29:51Z",
             "owner": "Puliczek",
@@ -450,11 +481,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230385816,
             "language": "Shell",
             "last_commit": "2026-05-13T00:54:43Z",
             "owner": "anthropics",
             "repo": "cwc-long-running-agents",
-            "stars": 662
+            "stars": 663
           }
         },
         {
@@ -464,11 +496,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1134135741,
             "language": "Python",
-            "last_commit": "2026-08-17T08:27:46Z",
+            "last_commit": "2026-08-19T08:26:40Z",
             "owner": "databricks",
             "repo": "databricks-agent-skills",
-            "stars": 264
+            "stars": 267
           }
         },
         {
@@ -478,18 +511,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1279760665,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T16:24:01Z",
+            "last_commit": "2026-08-19T08:36:12Z",
             "owner": "suboss87",
             "repo": "FDEOps",
-            "stars": 238
+            "stars": 241
           }
         }
       ],
       "title": "Best practices"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -498,11 +532,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 668195240,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-05T17:59:07Z",
             "owner": "pathwaycom",
             "repo": "llm-app",
-            "stars": 59014
+            "stars": 59010
           }
         },
         {
@@ -512,11 +547,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 876064934,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-27T18:43:06Z",
             "owner": "patchy631",
             "repo": "ai-engineering-hub",
-            "stars": 37025
+            "stars": 37030
           }
         },
         {
@@ -526,11 +562,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 854807707,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T00:52:09Z",
             "owner": "NirDiamant",
             "repo": "GenAI_Agents",
-            "stars": 23838
+            "stars": 23856
           }
         },
         {
@@ -540,8 +577,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636693030,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T18:29:17Z",
+            "last_commit": "2026-08-18T16:03:53Z",
             "owner": "GoogleCloudPlatform",
             "repo": "generative-ai",
             "stars": 17597
@@ -554,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111952660,
             "language": "Jupyter Notebook",
             "last_commit": "2024-01-24T15:36:36Z",
             "owner": "ikatsov",
@@ -568,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 781422111,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-07T10:31:34Z",
             "owner": "Azure-Samples",
@@ -582,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 882928874,
             "language": "Python",
             "last_commit": "2024-11-05T21:49:02Z",
             "owner": "muratcankoylan",
@@ -596,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 775290217,
             "language": null,
             "last_commit": "2025-01-24T07:20:37Z",
             "owner": "GURPREETKAURJETHRA",
@@ -607,7 +649,7 @@
       "title": "Cases and reference implementations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -616,11 +658,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626805178,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:46:23Z",
+            "last_commit": "2026-08-19T09:51:54Z",
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 152774
+            "stars": 152888
           }
         },
         {
@@ -630,11 +673,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 890668799,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T02:41:59Z",
+            "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89651
+            "stars": 89682
           }
         },
         {
@@ -644,11 +688,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 753490180,
             "language": null,
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71977
+            "stars": 71967
           }
         },
         {
@@ -658,11 +703,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676672661,
             "language": "Python",
-            "last_commit": "2026-08-16T00:22:02Z",
+            "last_commit": "2026-08-19T00:23:46Z",
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 39920
+            "stars": 40003
           }
         },
         {
@@ -672,11 +718,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:52:26Z",
+            "last_commit": "2026-08-19T09:53:08Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33311
+            "stars": 33373
           }
         },
         {
@@ -686,11 +733,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136202695,
             "language": "Python",
-            "last_commit": "2026-08-18T05:55:19Z",
+            "last_commit": "2026-08-19T05:18:06Z",
             "owner": "mlflow",
             "repo": "mlflow",
-            "stars": 27559
+            "stars": 27573
           }
         },
         {
@@ -700,11 +748,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T03:57:47Z",
+            "last_commit": "2026-08-18T22:33:59Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24332
+            "stars": 24365
           }
         },
         {
@@ -714,11 +763,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676829188,
             "language": "Python",
             "last_commit": "2026-08-17T11:05:50Z",
             "owner": "confident-ai",
             "repo": "deepeval",
-            "stars": 17662
+            "stars": 17695
           }
         },
         {
@@ -728,11 +778,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637924634,
             "language": "Python",
             "last_commit": "2026-02-24T07:47:19Z",
             "owner": "vibrantlabsai",
             "repo": "ragas",
-            "stars": 15354
+            "stars": 15373
           }
         },
         {
@@ -742,11 +793,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1118085970,
             "language": "Python",
-            "last_commit": "2026-08-18T09:25:15Z",
+            "last_commit": "2026-08-19T08:59:32Z",
             "owner": "opensandbox-group",
             "repo": "OpenSandbox",
-            "stars": 14226
+            "stars": 14302
           }
         },
         {
@@ -756,11 +808,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-18T08:51:26Z",
+            "last_commit": "2026-08-19T07:18:32Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11092
+            "stars": 11107
           }
         },
         {
@@ -770,11 +823,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315977578,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7814
+            "stars": 7818
           }
         },
         {
@@ -784,11 +838,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205137520,
             "language": "Python",
-            "last_commit": "2026-08-04T22:19:20Z",
+            "last_commit": "2026-08-18T17:04:31Z",
             "owner": "google",
             "repo": "agents-cli",
-            "stars": 5658
+            "stars": 5682
           }
         },
         {
@@ -798,11 +853,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 730753909,
             "language": "Python",
-            "last_commit": "2026-08-17T20:10:11Z",
+            "last_commit": "2026-08-19T02:37:46Z",
             "owner": "microsoft",
             "repo": "PyRIT",
-            "stars": 4320
+            "stars": 4329
           }
         },
         {
@@ -812,11 +868,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1020144870,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T02:13:26Z",
+            "last_commit": "2026-08-19T02:50:44Z",
             "owner": "archestra-ai",
             "repo": "archestra",
-            "stars": 4194
+            "stars": 4196
           }
         },
         {
@@ -826,11 +883,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962024783,
             "language": "Python",
-            "last_commit": "2026-08-18T09:45:31Z",
+            "last_commit": "2026-08-19T09:41:59Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2919
+            "stars": 2925
           }
         },
         {
@@ -840,8 +898,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 960490922,
             "language": "Python",
-            "last_commit": "2026-08-18T07:59:01Z",
+            "last_commit": "2026-08-19T09:49:37Z",
             "owner": "langwatch",
             "repo": "scenario",
             "stars": 951
@@ -851,12 +910,7 @@
       "title": "Tools"
     },
     {
-      "description": "The member directory introduces practitioners and teams that can provide FDE knowledge, delivery capability, projects, or reusable resources. Entries require public evidence and clear conflict-of-interest disclosure.",
-      "items": [],
-      "title": "FDE member network"
-    },
-    {
-      "description": "",
+      "description": "These files remain under their named authors' and publishers' rights. See each neighboring record for provenance and permitted use.",
       "items": [
         {
           "node_type": "item",
@@ -865,11 +919,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1320283832,
             "language": "Python",
             "last_commit": "2026-08-04T13:17:53Z",
             "owner": "global-fde",
             "repo": "awesome-fde-resources",
-            "stars": 156
+            "stars": 160
           }
         },
         {
@@ -879,11 +934,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1320283832,
             "language": "Python",
             "last_commit": "2026-08-04T13:17:53Z",
             "owner": "global-fde",
             "repo": "awesome-fde-resources",
-            "stars": 156
+            "stars": 160
           }
         },
         {
@@ -893,11 +949,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1320283832,
             "language": "Python",
             "last_commit": "2026-08-04T13:17:53Z",
             "owner": "global-fde",
             "repo": "awesome-fde-resources",
-            "stars": 156
+            "stars": 160
           }
         },
         {
@@ -907,24 +964,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1320283832,
             "language": "Python",
             "last_commit": "2026-08-04T13:17:53Z",
             "owner": "global-fde",
             "repo": "awesome-fde-resources",
-            "stars": 156
+            "stars": 160
           }
         }
       ],
       "title": "Hosted Chinese resources"
-    },
-    {
-      "description": "Read CONTRIBUTING.md. New submissions should explain their direct value to FDE or production AI delivery. Emerging projects with strong evidence are welcome.\nLinked projects remain under their owners' licenses. Original content is licensed under CC BY 4.0; code under is licensed under Apache-2.0. See licensing details.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:53:52.777Z",
+    "last_updated": "2026-08-19T09:53:54.946Z",
     "original_repository": "global-fde/awesome-fde-resources",
     "original_repository_sha": "27e98772e8e5f28c75c1abf5f508c869fb27740d",
     "enhanced_repository": "enhansome/enhansome-fde-resources",
