@@ -19,7 +19,7 @@
             "open_issues": 92,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 83269,
+            "stars": 83276,
             "topics": [
               "course",
               "large-language-models",
@@ -46,7 +46,7 @@
             "open_issues": 178,
             "owner": "huggingface",
             "repo": "agents-course",
-            "stars": 33138,
+            "stars": 33152,
             "topics": [
               "agentic-ai",
               "agents",
@@ -75,7 +75,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17703,
+            "stars": 17709,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:11.733Z"
@@ -96,7 +96,7 @@
             "open_issues": 5,
             "owner": "microsoft",
             "repo": "mcp-for-beginners",
-            "stars": 17382,
+            "stars": 17386,
             "topics": [
               "csharp",
               "java",
@@ -132,7 +132,7 @@
             "open_issues": 9,
             "owner": "ashishps1",
             "repo": "learn-ai-engineering",
-            "stars": 6089,
+            "stars": 6092,
             "topics": [
               "agentic-ai",
               "agents",
@@ -166,7 +166,7 @@
             "open_issues": 0,
             "owner": "alexeygrigorev",
             "repo": "ai-engineering-field-guide",
-            "stars": 5788,
+            "stars": 5792,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:11.733Z"
@@ -187,7 +187,7 @@
             "open_issues": 36,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5356,
+            "stars": 5360,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -218,7 +218,7 @@
             "open_issues": 15,
             "owner": "xdash",
             "repo": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-            "stars": 4907,
+            "stars": 4911,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:11.733Z"
@@ -278,7 +278,7 @@
             "open_issues": 8,
             "owner": "ombharatiya",
             "repo": "ai-system-design-guide",
-            "stars": 3460,
+            "stars": 3462,
             "topics": [
               "agentic-ai",
               "agentic-workflow",
@@ -579,7 +579,7 @@
             "open_issues": 27,
             "owner": "humanlayer",
             "repo": "12-factor-agents",
-            "stars": 26538,
+            "stars": 26539,
             "topics": [
               "12-factor",
               "12-factor-agents",
@@ -612,7 +612,7 @@
             "open_issues": 5,
             "owner": "NirDiamant",
             "repo": "agents-towards-production",
-            "stars": 21523,
+            "stars": 21524,
             "topics": [
               "agent",
               "agent-framework",
@@ -649,11 +649,11 @@
             "id": 144863525,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-03T00:57:02Z",
+            "last_commit": "2026-10-03T12:11:51Z",
             "open_issues": 37,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20967,
+            "stars": 20968,
             "topics": [
               "awesome",
               "awesome-list",
@@ -722,10 +722,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T23:55:38Z",
-            "open_issues": 259,
+            "open_issues": 260,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7236,
+            "stars": 7238,
             "topics": [
               "agents",
               "generative-ai",
@@ -782,11 +782,11 @@
             "id": 1195371847,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:12:58Z",
-            "open_issues": 229,
+            "last_commit": "2026-10-03T09:13:04Z",
+            "open_issues": 231,
             "owner": "ai-boost",
             "repo": "awesome-harness-engineering",
-            "stars": 4676,
+            "stars": 4682,
             "topics": [
               "agent-harness",
               "agent-memory",
@@ -949,7 +949,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T20:29:51Z",
-            "open_issues": 224,
+            "open_issues": 226,
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
             "stars": 741,
@@ -1009,7 +1009,7 @@
             "open_issues": 36,
             "owner": "databricks",
             "repo": "databricks-agent-skills",
-            "stars": 337,
+            "stars": 338,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:11.733Z"
@@ -1036,7 +1036,7 @@
             "open_issues": 8,
             "owner": "pathwaycom",
             "repo": "llm-app",
-            "stars": 58862,
+            "stars": 58856,
             "topics": [
               "chatbot",
               "hugging-face",
@@ -1073,7 +1073,7 @@
             "open_issues": 125,
             "owner": "patchy631",
             "repo": "ai-engineering-hub",
-            "stars": 38193,
+            "stars": 38197,
             "topics": [
               "agents",
               "ai",
@@ -1101,7 +1101,7 @@
             "open_issues": 24,
             "owner": "NirDiamant",
             "repo": "GenAI_Agents",
-            "stars": 24444,
+            "stars": 24448,
             "topics": [
               "agentic-ai",
               "agents",
@@ -1142,7 +1142,7 @@
             "open_issues": 81,
             "owner": "GoogleCloudPlatform",
             "repo": "generative-ai",
-            "stars": 17777,
+            "stars": 17778,
             "topics": [
               "agents",
               "gcp",
@@ -1310,11 +1310,11 @@
             "id": 626805178,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T03:58:39Z",
-            "open_issues": 975,
+            "last_commit": "2026-10-03T13:25:34Z",
+            "open_issues": 990,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 157736,
+            "stars": 157764,
             "topics": [
               "agent",
               "agentic-ai",
@@ -1352,10 +1352,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T15:33:30Z",
-            "open_issues": 551,
+            "open_issues": 553,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 90961,
+            "stars": 90971,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:11.733Z"
@@ -1366,7 +1366,7 @@
           "description": "Secure infrastructure for running AI-generated code.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
             "homepage": "https://daytona.io",
             "id": 753490180,
@@ -1376,7 +1376,7 @@
             "open_issues": 458,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71674,
+            "stars": 71672,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -1402,11 +1402,11 @@
             "id": 676672661,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:08:21Z",
-            "open_issues": 820,
+            "last_commit": "2026-10-03T12:56:04Z",
+            "open_issues": 817,
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 42643,
+            "stars": 42665,
             "topics": [
               "agents",
               "ai",
@@ -1442,11 +1442,11 @@
             "id": 642497346,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T21:21:34Z",
-            "open_issues": 1001,
+            "last_commit": "2026-10-03T13:05:48Z",
+            "open_issues": 1002,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 35327,
+            "stars": 35335,
             "topics": [
               "analytics",
               "autogen",
@@ -1483,11 +1483,11 @@
             "id": 136202695,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:09:23Z",
-            "open_issues": 2154,
+            "last_commit": "2026-10-03T13:28:43Z",
+            "open_issues": 2155,
             "owner": "mlflow",
             "repo": "mlflow",
-            "stars": 28239,
+            "stars": 28244,
             "topics": [
               "agentops",
               "agents",
@@ -1523,11 +1523,11 @@
             "id": 633927609,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:47:54Z",
-            "open_issues": 693,
+            "last_commit": "2026-10-03T09:44:10Z",
+            "open_issues": 697,
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 25658,
+            "stars": 25667,
             "topics": [
               "ci",
               "ci-cd",
@@ -1567,7 +1567,7 @@
             "open_issues": 698,
             "owner": "confident-ai",
             "repo": "deepeval",
-            "stars": 18586,
+            "stars": 18598,
             "topics": [
               "evaluation-framework",
               "evaluation-metrics",
@@ -1595,7 +1595,7 @@
             "open_issues": 623,
             "owner": "vibrantlabsai",
             "repo": "ragas",
-            "stars": 15909,
+            "stars": 15914,
             "topics": [
               "evaluation",
               "llm",
@@ -1620,7 +1620,7 @@
             "open_issues": 140,
             "owner": "opensandbox-group",
             "repo": "OpenSandbox",
-            "stars": 15651,
+            "stars": 15653,
             "topics": [
               "ai",
               "ai-agent",
@@ -1643,11 +1643,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T03:05:44Z",
-            "open_issues": 1092,
+            "last_commit": "2026-10-03T11:38:54Z",
+            "open_issues": 1091,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11687,
+            "stars": 11690,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -1685,7 +1685,7 @@
             "open_issues": 323,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7962,
+            "stars": 7963,
             "topics": [
               "data-drift",
               "data-quality",
@@ -1747,11 +1747,11 @@
             "id": 730753909,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T03:58:19Z",
-            "open_issues": 132,
+            "last_commit": "2026-10-03T14:02:58Z",
+            "open_issues": 136,
             "owner": "microsoft",
             "repo": "PyRIT",
-            "stars": 4572,
+            "stars": 4573,
             "topics": [
               "ai-red-team",
               "generative-ai",
@@ -1773,11 +1773,11 @@
             "id": 1020144870,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:01:00Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-03T12:09:05Z",
+            "open_issues": 56,
             "owner": "archestra-ai",
             "repo": "archestra",
-            "stars": 4344,
+            "stars": 4343,
             "topics": [
               "a2a",
               "a2a-mcp",
@@ -1846,7 +1846,7 @@
             "open_issues": 196,
             "owner": "langwatch",
             "repo": "scenario",
-            "stars": 981,
+            "stars": 982,
             "topics": [
               "agent-simulations",
               "agent-testing",
@@ -1862,7 +1862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:44:34.845Z",
+    "last_updated": "2026-10-03T14:20:38.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, tools, practices, case studies, and opportunities for Forward Deployed Engineers.",
