@@ -17,73 +17,73 @@ We prefer credible books, guides, production practices, real implementations, an
 
 ## Getting started
 
-* [mlabonne/llm-course](https://github.com/mlabonne/llm-course) ⭐ 85,157 | 🐛 92 | 📅 2026-02-05 - Structured LLM learning path with notebooks and practical roadmaps.
-* [Hugging Face/agents-course](https://github.com/huggingface/agents-course) ⭐ 35,155 | 🐛 197 | 🌐 MDX | 📅 2026-11-17 - Hands-on course for understanding and building AI agents.
-* [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) ⭐ 18,339 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2026-07-03 - Supporting resources for Chip Huyen's *AI Engineering*.
-* [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) ⭐ 17,676 | 🐛 58 | 🌐 Jupyter Notebook | 📅 2026-11-13 - Cross-language introduction to Model Context Protocol.
-* [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) ⭐ 6,239 | 🐛 9 | 📅 2026-02-05 - Free learning path for AI and LLM engineering.
-* [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) ⭐ 6,058 | 🐛 1 | 🌐 HTML | 📅 2026-11-13 - Data-backed guide to AI engineering roles, including responsibilities and skills extracted from 146 FDE job postings.
-* [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) ⭐ 5,605 | 🐛 16 | 📅 2026-11-02 - Chinese FDE guidance book covering discovery, activation, renewal, expansion, and scale.
-* [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) ⭐ 5,437 | 🐛 36 | 🌐 Python | 📅 2026-04-22 - Practical LLM, RAG, deployment, and LLMOps handbook.
+* [mlabonne/llm-course](https://github.com/mlabonne/llm-course) ⭐ 85,163 | 🐛 92 | 📅 2026-02-05 - Structured LLM learning path with notebooks and practical roadmaps.
+* [Hugging Face/agents-course](https://github.com/huggingface/agents-course) ⭐ 35,195 | 🐛 198 | 🌐 MDX | 📅 2026-11-17 - Hands-on course for understanding and building AI agents.
+* [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) ⭐ 18,353 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2026-07-03 - Supporting resources for Chip Huyen's *AI Engineering*.
+* [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) ⭐ 17,684 | 🐛 58 | 🌐 Jupyter Notebook | 📅 2026-11-13 - Cross-language introduction to Model Context Protocol.
+* [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) ⭐ 6,247 | 🐛 9 | 📅 2026-02-05 - Free learning path for AI and LLM engineering.
+* [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) ⭐ 6,064 | 🐛 1 | 🌐 HTML | 📅 2026-11-13 - Data-backed guide to AI engineering roles, including responsibilities and skills extracted from 146 FDE job postings.
+* [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) ⭐ 5,611 | 🐛 16 | 📅 2026-11-02 - Chinese FDE guidance book covering discovery, activation, renewal, expansion, and scale.
+* [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) ⭐ 5,436 | 🐛 36 | 🌐 Python | 📅 2026-04-22 - Practical LLM, RAG, deployment, and LLMOps handbook.
+* [ombharatiya/ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) ⭐ 4,413 | 🐛 9 | 📅 2026-11-10 - Production AI system design and evaluation guide.
 * [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) ⭐ 4,411 | 🐛 8 | 🌐 Python | 📅 2026-04-20 - End-to-end production LLM and RAG course.
-* [ombharatiya/ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) ⭐ 4,395 | 🐛 9 | 📅 2026-11-10 - Production AI system design and evaluation guide.
-* [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,342 | 🐛 84 | 📅 2026-05-28 - Survey of context engineering research, patterns, and implementations.
-* [pierpaolo28/Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) ⭐ 1,576 | 🐛 2 | 📅 2026-09-13 - Roadmap for FDE skills across agents, enterprise data, and strategic consulting.
+* [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,341 | 🐛 85 | 📅 2026-05-28 - Survey of context engineering research, patterns, and implementations.
+* [pierpaolo28/Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) ⭐ 1,578 | 🐛 2 | 📅 2026-09-13 - Roadmap for FDE skills across agents, enterprise data, and strategic consulting.
 * [paiml/practical-mlops-book](https://github.com/paiml/practical-mlops-book) ⭐ 992 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-09 - Code and exercises from *Practical MLOps*.
 * [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) ⭐ 971 | 🐛 0 | 📅 2023-02-26 - Curated foundation for learning MLOps.
-* [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp) ⭐ 959 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-11 - Self-paced GenAI bootcamp covering RAG, agents, and fine-tuning.
-* [anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection) ⭐ 827 | 🐛 1 | 📅 2026-10-22 - Beginner roadmap for AI security and prompt injection testing.
+* [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp) ⭐ 960 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-11 - Self-paced GenAI bootcamp covering RAG, agents, and fine-tuning.
+* [anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection) ⭐ 829 | 🐛 1 | 📅 2026-10-22 - Beginner roadmap for AI security and prompt injection testing.
 * [bryanyzhu/agentic-ai-system-course](https://github.com/bryanyzhu/agentic-ai-system-course) ⭐ 788 | 🐛 2 | 🌐 JavaScript | 📅 2026-06-22 - Course skeleton for designing and operating production agents.
 * [MLOps-Courses/mlops-coding-course](https://github.com/MLOps-Courses/mlops-coding-course) ⭐ 748 | 🐛 0 | 📅 2026-11-08 - Build and maintain a production MLOps codebase.
-* [libaice/Awesome-FDE](https://github.com/libaice/Awesome-FDE) ⭐ 123 | 🐛 7 | 📅 2026-06-08 - Bilingual collection of FDE resources, companies, core skills, and interview preparation materials.
+* [libaice/Awesome-FDE](https://github.com/libaice/Awesome-FDE) ⭐ 123 | 🐛 8 | 📅 2026-06-08 - Bilingual collection of FDE resources, companies, core skills, and interview preparation materials.
 
 ## Best practices
 
-* [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) ⭐ 27,299 | 🐛 28 | 🌐 TypeScript | 📅 2025-09-21 - Twelve engineering principles for reliable customer-facing agent systems.
-* [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) ⭐ 21,922 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-11-15 - Code-first tutorials from agent prototype to enterprise deployment.
-* [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,112 | 🐛 44 | 📅 2026-11-12 - Libraries and practices for deploying, monitoring, versioning, and scaling ML.
-* [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) ⭐ 14,300 | 🐛 51 | 📅 2024-11-21 - Curated MLOps references and production tooling.
-* [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) ⭐ 7,524 | 🐛 282 | 🌐 Python | 📅 2026-11-18 - Programmable guardrails for LLM applications.
+* [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) ⭐ 27,329 | 🐛 28 | 🌐 TypeScript | 📅 2025-09-21 - Twelve engineering principles for reliable customer-facing agent systems.
+* [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) ⭐ 21,931 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-11-15 - Code-first tutorials from agent prototype to enterprise deployment.
+* [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,114 | 🐛 44 | 📅 2026-11-12 - Libraries and practices for deploying, monitoring, versioning, and scaling ML.
+* [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) ⭐ 14,302 | 🐛 51 | 📅 2024-11-21 - Curated MLOps references and production tooling.
+* [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) ⭐ 7,530 | 🐛 283 | 🌐 Python | 📅 2026-11-19 - Programmable guardrails for LLM applications.
 * [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) ⚠️ Archived - Production agent templates with CI/CD, evaluation, and observability.
-* [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ⭐ 5,183 | 🐛 256 | 🌐 Python | 📅 2026-11-18 - Patterns for agent memory, permissions, evals, MCP, and observability.
-* [vllm-project/guidellm](https://github.com/vllm-project/guidellm) ⭐ 1,794 | 🐛 105 | 🌐 Python | 📅 2026-11-18 - Evaluate LLM serving performance under real inference workloads.
-* [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) ⭐ 1,663 | 🐛 28 | 📅 2026-10-12 - RAG application patterns and implementation resources.
-* [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide) ⭐ 1,061 | 🐛 2 | 📅 2026-10-28 - Practical adversarial testing and AI security evaluation.
-* [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) ⭐ 1,045 | 🐛 90 | 📅 2026-11-04 - Focused collection of agent evaluation resources and benchmarks.
-* [suboss87/FDEOps](https://github.com/suboss87/FDEOps) ⭐ 817 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-11 - Local-first engagement memory, delivery methodology, and agent skills covering discovery through handoff.
+* [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ⭐ 5,194 | 🐛 249 | 🌐 Python | 📅 2026-11-19 - Patterns for agent memory, permissions, evals, MCP, and observability.
+* [vllm-project/guidellm](https://github.com/vllm-project/guidellm) ⭐ 1,798 | 🐛 108 | 🌐 Python | 📅 2026-11-19 - Evaluate LLM serving performance under real inference workloads.
+* [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) ⭐ 1,663 | 🐛 29 | 📅 2026-10-12 - RAG application patterns and implementation resources.
+* [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide) ⭐ 1,064 | 🐛 2 | 📅 2026-10-28 - Practical adversarial testing and AI security evaluation.
+* [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) ⭐ 1,045 | 🐛 93 | 📅 2026-11-04 - Focused collection of agent evaluation resources and benchmarks.
+* [suboss87/FDEOps](https://github.com/suboss87/FDEOps) ⭐ 773 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-11 - Local-first engagement memory, delivery methodology, and agent skills covering discovery through handoff.
 * [anthropics/cwc-long-running-agents](https://github.com/anthropics/cwc-long-running-agents) ⭐ 769 | 🐛 2 | 🌐 Shell | 📅 2026-05-13 - First-party harness primitives and evaluator loops for reliable long-running Claude agents.
-* [Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) ⭐ 750 | 🐛 314 | 📅 2026-03-03 - MCP security tools, research, and defensive guidance.
-* [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) ⭐ 407 | 🐛 41 | 🌐 Python | 📅 2026-11-18 - Official skills encoding Databricks data, governance, evaluation, and deployment workflows for coding agents.
+* [Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) ⭐ 750 | 🐛 316 | 📅 2026-03-03 - MCP security tools, research, and defensive guidance.
+* [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) ⭐ 407 | 🐛 41 | 🌐 Python | 📅 2026-11-19 - Official skills encoding Databricks data, governance, evaluation, and deployment workflows for coding agents.
 
 ## Cases and reference implementations
 
-* [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) ⭐ 58,700 | 🐛 6 | 🌐 Python | 📅 2026-11-10 - Ready-to-run RAG, live-data, and enterprise-search templates.
-* [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 42,000 | 🐛 139 | 🌐 Jupyter Notebook | 📅 2026-11-01 - Real-world tutorials for agents, RAG, and LLM systems.
-* [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) ⭐ 25,056 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2026-11-02 - More than 50 agent techniques and implementations.
-* [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) ⭐ 17,956 | 🐛 95 | 🌐 Jupyter Notebook | 📅 2026-11-18 - Google Cloud GenAI samples and enterprise notebooks.
+* [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) ⭐ 58,698 | 🐛 6 | 🌐 Python | 📅 2026-11-10 - Ready-to-run RAG, live-data, and enterprise-search templates.
+* [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 42,022 | 🐛 139 | 🌐 Jupyter Notebook | 📅 2026-11-01 - Real-world tutorials for agents, RAG, and LLM systems.
+* [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) ⭐ 25,074 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2026-11-02 - More than 50 agent techniques and implementations.
+* [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) ⭐ 17,962 | 🐛 97 | 🌐 Jupyter Notebook | 📅 2026-11-18 - Google Cloud GenAI samples and enterprise notebooks.
 * [ikatsov/tensor-house](https://github.com/ikatsov/tensor-house) ⭐ 1,464 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-01-24 - Enterprise AI notebooks for marketing, pricing, supply chain, and manufacturing.
-* [Azure-Samples/AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) ⭐ 1,011 | 🐛 85 | 🌐 Jupyter Notebook | 📅 2026-11-16 - Labs for AI gateways, models, MCP servers, and agents.
+* [Azure-Samples/AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) ⭐ 1,010 | 🐛 85 | 🌐 Jupyter Notebook | 📅 2026-11-16 - Labs for AI gateways, models, MCP servers, and agents.
 * [muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) ⭐ 735 | 🐛 3 | 🌐 Python | 📅 2024-11-05 - Adaptable enterprise research and report-generation system.
 * [GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS) ⭐ 644 | 🐛 1 | 📅 2025-01-24 - End-to-end GenAI projects with deployment examples.
 
 ## Tools
 
-* [langgenius/dify](https://github.com/langgenius/dify) ⭐ 161,435 | 🐛 1,444 | 🌐 Python | 📅 2026-11-18 - Platform for agent workflows, RAG, models, and tools.
-* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 92,087 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-18 - Reference MCP servers and integrations.
+* [langgenius/dify](https://github.com/langgenius/dify) ⭐ 161,511 | 🐛 1,406 | 🌐 Python | 📅 2026-11-19 - Platform for agent workflows, RAG, models, and tools.
+* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 92,106 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-19 - Reference MCP servers and integrations.
 * [daytonaio/daytona](https://github.com/daytonaio/daytona) ⚠️ Archived - Secure infrastructure for running AI-generated code.
-* [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) ⭐ 45,117 | 🐛 479 | 🌐 Python | 📅 2026-11-18 - Runtime and orchestration framework for resilient agents.
-* [langfuse/langfuse](https://github.com/langfuse/langfuse) ⭐ 37,597 | 🐛 1,176 | 🌐 TypeScript | 📅 2026-11-18 - LLM observability, evaluation, prompt management, and datasets.
-* [mlflow/mlflow](https://github.com/mlflow/mlflow) ⭐ 28,872 | 🐛 2,256 | 🌐 Python | 📅 2026-11-18 - Lifecycle, evaluation, tracing, and monitoring for AI systems.
-* [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 27,425 | 🐛 978 | 🌐 TypeScript | 📅 2026-11-18 - Prompt, agent, and RAG testing with red teaming.
-* [confident-ai/deepeval](https://github.com/confident-ai/deepeval) ⭐ 19,547 | 🐛 854 | 🌐 Python | 📅 2026-11-18 - Evaluation framework for LLM applications.
-* [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) ⭐ 17,572 | 🐛 199 | 🌐 Go | 📅 2026-11-18 - Secure, extensible sandbox runtime with SDK, MCP, Docker, and Kubernetes support.
-* [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) ⭐ 16,374 | 🐛 564 | 🌐 Python | 📅 2026-11-14 - Evaluation framework for RAG and LLM applications.
-* [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,343 | 🐛 1,314 | 🌐 Python | 📅 2026-11-18 - Open-source AI observability and evaluation.
-* [evidentlyai/evidently](https://github.com/evidentlyai/evidently) ⭐ 8,070 | 🐛 370 | 🌐 Jupyter Notebook | 📅 2026-09-29 - Evaluation and monitoring for ML and LLM systems.
-* [google/agents-cli](https://github.com/google/agents-cli) ⭐ 6,370 | 🐛 19 | 🌐 Python | 📅 2026-11-17 - CLI and skills for creating, evaluating, governing, and deploying agents on Google Cloud.
-* [microsoft/PyRIT](https://github.com/microsoft/PyRIT) ⭐ 4,937 | 🐛 259 | 🌐 Python | 📅 2026-11-18 - Generative AI risk identification and red-team framework from Microsoft.
-* [archestra-ai/archestra](https://github.com/archestra-ai/archestra) ⭐ 4,447 | 🐛 66 | 🌐 TypeScript | 📅 2026-11-18 - Enterprise MCP registry, gateway, guardrails, and orchestration.
-* [snyk/agent-scan](https://github.com/snyk/agent-scan) ⭐ 3,256 | 🐛 30 | 🌐 Python | 📅 2026-11-18 - Security scanner for prompt injection and vulnerabilities in agents, MCP servers, and skills.
+* [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) ⭐ 45,157 | 🐛 479 | 🌐 Python | 📅 2026-11-19 - Runtime and orchestration framework for resilient agents.
+* [langfuse/langfuse](https://github.com/langfuse/langfuse) ⭐ 37,633 | 🐛 1,179 | 🌐 TypeScript | 📅 2026-11-19 - LLM observability, evaluation, prompt management, and datasets.
+* [mlflow/mlflow](https://github.com/mlflow/mlflow) ⭐ 28,899 | 🐛 2,250 | 🌐 Python | 📅 2026-11-19 - Lifecycle, evaluation, tracing, and monitoring for AI systems.
+* [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 27,459 | 🐛 986 | 🌐 TypeScript | 📅 2026-11-19 - Prompt, agent, and RAG testing with red teaming.
+* [confident-ai/deepeval](https://github.com/confident-ai/deepeval) ⭐ 19,564 | 🐛 865 | 🌐 Python | 📅 2026-11-19 - Evaluation framework for LLM applications.
+* [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) ⭐ 17,647 | 🐛 199 | 🌐 Go | 📅 2026-11-19 - Secure, extensible sandbox runtime with SDK, MCP, Docker, and Kubernetes support.
+* [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) ⭐ 16,383 | 🐛 564 | 🌐 Python | 📅 2026-11-14 - Evaluation framework for RAG and LLM applications.
+* [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,355 | 🐛 1,338 | 🌐 Python | 📅 2026-11-19 - Open-source AI observability and evaluation.
+* [evidentlyai/evidently](https://github.com/evidentlyai/evidently) ⭐ 8,072 | 🐛 370 | 🌐 Jupyter Notebook | 📅 2026-09-29 - Evaluation and monitoring for ML and LLM systems.
+* [google/agents-cli](https://github.com/google/agents-cli) ⭐ 6,373 | 🐛 19 | 🌐 Python | 📅 2026-11-17 - CLI and skills for creating, evaluating, governing, and deploying agents on Google Cloud.
+* [microsoft/PyRIT](https://github.com/microsoft/PyRIT) ⭐ 4,958 | 🐛 278 | 🌐 Python | 📅 2026-11-19 - Generative AI risk identification and red-team framework from Microsoft.
+* [archestra-ai/archestra](https://github.com/archestra-ai/archestra) ⭐ 4,450 | 🐛 65 | 🌐 TypeScript | 📅 2026-11-19 - Enterprise MCP registry, gateway, guardrails, and orchestration.
+* [snyk/agent-scan](https://github.com/snyk/agent-scan) ⭐ 3,260 | 🐛 22 | 🌐 Python | 📅 2026-11-19 - Security scanner for prompt injection and vulnerabilities in agents, MCP servers, and skills.
 * [langwatch/scenario](https://github.com/langwatch/scenario) ⭐ 1,031 | 🐛 213 | 🌐 TypeScript | 📅 2026-11-18 - Multi-turn agent testing with simulated users, edge cases, and framework-agnostic evaluation.
 
 ## FDE member network
@@ -107,4 +107,4 @@ Linked projects remain under their owners' licenses. Original content is license
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
